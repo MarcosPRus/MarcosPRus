@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcosPRus
 - 👀 I’m interested in a lot of things! (Robotics, computer vision, augmented reality, power electronics, space exploration, videogame development...)
-- 🌱 I’m currently learning machine learning with python and video game development with Unity and C#
+- 🌱 I’m currently learning machine learning with python and video game development with Godot 4
 - 💞️ I’m looking to collaborate on any project that catches my attention
 - 📫 How to reach me: marcos.perez.rus@gmail.com
 
